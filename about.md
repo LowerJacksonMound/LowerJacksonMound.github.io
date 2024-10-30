@@ -6,13 +6,14 @@ permalink: /about/
 
 # About Me
 
-Hello! I'm **Your Name**, a passionate developer...
+Hello! I'm **[Your Name]**, a passionate developer with an interest in building web applications and exploring new technologies. This portfolio showcases some of my projects and experiences.
 
 ## Skills
 
-- **Language1**
-- **Language2**
+- **Programming Languages:** Python, JavaScript, etc.
+- **Frameworks:** Django, React, etc.
+- **Tools:** Git, GitHub, etc.
 
 ## Contact
 
-[GitHub](URL) | [LinkedIn](URL)
+Feel free to reach out to me on [GitHub](https://github.com/LowerJacksonMound) or [LinkedIn](https://linkedin.com/in/yourprofile).
