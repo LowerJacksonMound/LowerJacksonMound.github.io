@@ -1,8 +1,8 @@
 title: "My Portfolio"
 description: "A showcase of my projects, skills, and professional journey."
-baseurl: ""
-url: "https://LowerJacksonMound.github.io"
-twitter_username: your-twitter-handle
+baseurl: "" # Leave empty for user/organization sites
+url: "https://LowerJacksonMound.github.io" # Your GitHub Pages URL
+twitter_username: # your-twitter-handle (optional)
 github_username: LowerJacksonMound
 
 theme: minima
