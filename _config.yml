@@ -1,0 +1,16 @@
+title: "My Portfolio"
+description: "A showcase of my projects, skills, and professional journey."
+baseurl: "" # Leave empty for user/organization sites. Use "/my-portfolio" for project sites.
+url: "https://LowerJacksonMound.github.io" # Replace with your actual GitHub Pages URL.
+twitter_username: # your-twitter-handle (optional)
+github_username: LowerJacksonMound
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# Style settings
+sass:
+  sass_dir: assets/css
+
