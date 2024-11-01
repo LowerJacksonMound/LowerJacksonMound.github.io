@@ -3,19 +3,20 @@
 ![Acronym Finder Logo](path-to-your-logo.png) <!-- Replace with your logo if available -->
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-  - [Chrome Extension Installation](#chrome-extension-installation)
-  - [Python Scripts Setup](#python-scripts-setup)
-- [Usage](#usage)
-  - [Using the Chrome Extension](#using-the-chrome-extension)
-  - [Extracting Acronyms from PDFs](#extracting-acronyms-from-pdfs)
-  - [Formatting the Acronym Dictionary](#formatting-the-acronym-dictionary)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+  - [Chrome Extension Installation(#chrome-extension-installation)
+  - [Python Scripts Setup(#python-scripts-setup)
+- [Usage(#usage)
+  - [Using the Chrome Extension]#using-the-chrome-extension)
+  - [Extracting Acronyms from PDFs(#extracting-acronyms-from-pdfs)
+  - [Formatting the Acronym Dictionary(#formatting-the-acronym-dictionary)
+- [Contributing]#contributing)
+- [License(#license)
+- [Contact(#contact)
 
 ## Introduction
 
@@ -37,6 +38,7 @@
 ### Chrome Extension Installation
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/yourusername/acronym-finder.git
 
