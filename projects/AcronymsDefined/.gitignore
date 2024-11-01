@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+
+# Logs
+*.log
+
+# Backup Files
+*.backup
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Extension Build Files
+chrome-extension/build/
+
