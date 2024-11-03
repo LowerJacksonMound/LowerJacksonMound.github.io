@@ -1,2 +1,3 @@
 # MacOSUninstallerAndRemnantRemover
-Uninstalls MacOS app AND all associated remnants. 
+
+Uninstalls MacOS app AND all associated remnants.
