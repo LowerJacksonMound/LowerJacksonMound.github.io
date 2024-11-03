@@ -25,3 +25,5 @@ Feel free to reach out to me on [GitHub](https://github.com/LowerJacksonMound) o
 
 - **[AcronymsDefined](https://github.com/LowerJacksonMound/AcronymsDefined):**  
   A Chrome extension that defines any acronym simply by highlighting it. Currently, the dictionary is technology-based, but users can customize the focus by adding PDFs relevant to their specific fields of interest.
+
+- **[MacOS-Convert-XlsxCSV--Txt-Html-Odt-Docx-Pdf](https://github.com/your-username/LowerJacksonMound.github.io/tree/main/projects/MacOS-Convert-XlsxCSV--Txt-Html-Odt-Docx-Pdf):**This Python script provides an interactive utility for converting various file formats, such as documents and data files, using Pandoc and specialized libraries. The supported formats include `.txt`, `.pdf`, `.docx`, `.odt`, `.html`, `.csv`, and `.xlsx`.
